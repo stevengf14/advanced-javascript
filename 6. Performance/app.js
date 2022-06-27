@@ -62,11 +62,11 @@ animals.map(animal => {
 
 // jscompress.com
 // minify code -> saving 0.03kb
-var animals=["dog","cat","fish"],animalsLength=animals.length;animals.map(a=>{console.log(a)});
+var animals = ["dog", "cat", "fish"], animalsLength = animals.length; animals.map(a => { console.log(a) });
 
 // javascriptobfuscator.com/Javascript-Obfuscator.aspx
 // obfuscated code -> 
-var _0xdcce=["\x64\x6F\x67","\x63\x61\x74","\x66\x69\x73\x68","\x6C\x65\x6E\x67\x74\x68","\x6C\x6F\x67","\x6D\x61\x70"];var animals=[_0xdcce[0],_0xdcce[1],_0xdcce[2]];var animalsLength=animals[_0xdcce[3]];animals[_0xdcce[5]]((_0x2427x3)=>{console[_0xdcce[4]](_0x2427x3)});
+var _0xdcce = ["\x64\x6F\x67", "\x63\x61\x74", "\x66\x69\x73\x68", "\x6C\x65\x6E\x67\x74\x68", "\x6C\x6F\x67", "\x6D\x61\x70"]; var animals = [_0xdcce[0], _0xdcce[1], _0xdcce[2]]; var animalsLength = animals[_0xdcce[3]]; animals[_0xdcce[5]]((_0x2427x3) => { console[_0xdcce[4]](_0x2427x3) });
 
 // ********************************************************************************************
 // ****************************************** JSHINT ******************************************
